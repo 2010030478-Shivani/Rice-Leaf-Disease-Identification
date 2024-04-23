@@ -1,1 +1,1 @@
-# Rice-Leaf-Disease-Identification-
+# Rice-Leaf-Disease-Identification
