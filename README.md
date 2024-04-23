@@ -1,1 +1,3 @@
 # Rice-Leaf-Disease-Identification
+
+ Rice leaf disease detection is the technique of finding and diagnosing illnesses that harm rice plants by examining the traits and patterns seen on their leaves. This is often accomplished using techniques from techniques of machine learning and computer vision. In the realm of precision farming, the detection of issues affecting rice leaves is a critical component to ensure timely interventions and maximize crop yield. This project aims to harness the power of techniques of machine learning, computer vision, and image processing for developing robust process for automated identification and analysis for deficiency conditions.
